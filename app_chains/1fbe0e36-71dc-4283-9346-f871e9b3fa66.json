@@ -1,0 +1,8 @@
+{
+  "name": "dorchi",
+  "logo": "Your_Logo_URL",
+  "rpc_url": "http://95.164.3.1:9944",
+  "explorer_url": "http://95.164.3.1:4000",
+  "metrics_endpoint": "http://95.164.3.1:9615/metrics",
+  "id": "1fbe0e36-71dc-4283-9346-f871e9b3fa66"
+}
